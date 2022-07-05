@@ -3,6 +3,7 @@
 <p align="left"> <img src="https://readme-typing-svg.herokuapp.com?lines=Link+for+Download" /> 👇 </p>
 
 👉                    https://play.google.com/store/apps/details?id=com.hemeda.daily_tasks
+
 <br>
 
 
