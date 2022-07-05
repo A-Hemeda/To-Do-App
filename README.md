@@ -1,3 +1,3 @@
 # To Do App
 
-![180](https://user-images.githubusercontent.com/101954795/177330427-137ecfa7-a6cb-4241-840c-0e60a4cfb96c.png)
+![ic_launcher](https://user-images.githubusercontent.com/101954795/177330516-1cd2fcb0-cc88-4797-8873-0da90c5f6534.png)
