@@ -11,5 +11,8 @@
 ## 📱 Screenshots #
 
 <p align="center">
-
-![AhmdHemeda11](https://user-images.githubusercontent.com/101954795/177335854-3abf2794-0b54-4c3d-b3fb-bf7812d4025b.jpg)
+  <img src="[https://raw.githubusercontent.com/sagarshende23/Simple_calculator_flutter/master/2.png](https://user-images.githubusercontent.com/101954795/177335854-3abf2794-0b54-4c3d-b3fb-bf7812d4025b.jpg)" width="250" hspace="4">
+  </p>
+<p align="center">
+ <a href='[https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator](https://play.google.com/store/apps/details?id=com.hemeda.daily_tasks)'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height=115px width=310px/></a>
+</p>
